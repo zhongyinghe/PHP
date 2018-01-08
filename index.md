@@ -1,1 +1,12 @@
-
+* 1 [trait](#)
+* 1.1 [优先顺序](https://github.com/zhongyinghe/PHP/blob/master/trait/trait1.php)
+* 1.2 [优先顺序2](https://github.com/zhongyinghe/PHP/blob/master/trait/trait2.php)
+* 1.3 [使用多个trait](https://github.com/zhongyinghe/PHP/blob/master/trait/trait3.php)
+* 1.4 [trait方法冲突解决示例](https://github.com/zhongyinghe/PHP/blob/master/trait/trait4.php)
+* 1.5 [as语法调整访问控制](https://github.com/zhongyinghe/PHP/blob/master/trait/trait5.php)
+* 1.6 [trait中能够使用trait](https://github.com/zhongyinghe/PHP/blob/master/trait/trait6.php)
+* 1.7 [trait的抽象成员方法](https://github.com/zhongyinghe/PHP/blob/master/trait/trait7.php)
+* 1.8 [trait中的静态成员](https://github.com/zhongyinghe/PHP/blob/master/trait/trait8.php)
+* 1.9 [trait的静态方法](https://github.com/zhongyinghe/PHP/blob/master/trait/trait9.php)
+* 1.10 [trait的属性](https://github.com/zhongyinghe/PHP/blob/master/trait/trait10.php)
+* 1.11 [trait属性和class的属性冲突](https://github.com/zhongyinghe/PHP/blob/master/trait/trait11.php)
